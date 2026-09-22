@@ -3,3 +3,33 @@ site_url: https://readthedocs.io
 theme:
   name: material
   custom_dir: overrides
+
+
+  nav:
+  - 🏠 新加坡大学防伪数据库首页: index.md
+  
+  - 🇸🇬 01 公立自治大学卷 (Autonomous Universities):
+      - 公立大学防伪总览: sg-autonomous-universities/overview.md
+      - 新加坡国立大学 (NUS): sg-autonomous-universities/nus.md
+      - 南洋理工大学 (NTU): sg-autonomous-universities/ntu.md
+      - 新加坡管理大学 (SMU): sg-autonomous-universities/smu.md
+      - 新加坡科技设计大学 (SUTD): sg-autonomous-universities/sutd.md
+      - 新跃社科大学 (SUSS): sg-autonomous-universities/suss.md
+      - 新加坡理工大学 (SIT): sg-autonomous-universities/sit.md
+
+  - 🛠️ 02 政府理工学院卷 (Polytechnics Database):
+      - 理工学院防伪总览: sg-polytechnics/overview.md
+      - 新加坡理工学院 (SP): sg-polytechnics/sp.md
+      - 义安理工学院 (NP): sg-polytechnics/np.md
+      - 淡马锡理工学院 (TP): sg-polytechnics/tp.md
+      - 南洋理工学院 (NYP): sg-polytechnics/nyp.md
+      - 共和理工学院 (RP): sg-polytechnics/rp.md
+
+  - 🎨 03 艺术高等学府卷 (Arts Institutions):
+      - 新加坡拉萨尔艺术学院 (LASALLE): sg-arts-colleges/lasalle.md
+
+  - 🏢 04 顶尖私立教育机构卷 (Private Education):
+      - 私立学院防伪与双联文凭总览: sg-private-academies/overview.md
+      - 新加坡 PSB 学院 (PSB Academy): sg-private-academies/psb.md
+      - 新加坡楷博高等教育学院 (Kaplan): sg-private-academies/kaplan.md
+      - 新加坡莱佛士高等教育学院 (Raffles): sg-private-academies/raffles.md
