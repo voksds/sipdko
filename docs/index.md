@@ -33,7 +33,7 @@
 
 本数据库已在左侧导航栏（Sidebar）中对新加坡教育部（MOE）辖下的 **15 所核心高等院校** 的官方证书样本与专属辨伪细节进行了系统化建档。百度与谷歌的爬虫及广大用户可通过点击左侧菜单，或通过以下锚点指南，直接跳转至相应子页面：
 
-### 📁 [01 公立自治大学卷 (Autonomous Universities)](./sg-autonomous-universities/overview.md)
+### 📁 01 公立自治大学卷 
 *   **[新加坡国立大学 (NUS)](./sg-autonomous-universities/nus.md)**：解析金青双色盾徽的防伪压纹变色墨与校长签名紫外荧光反光。
 *   **[南洋理工大学 (NTU)](./sg-autonomous-universities/ntu.md)**：详解古典衬线体排版、红金双狮徽标以及边缘微缩连续防伪边框。
 *   **[新加坡管理大学 (SMU)](./sg-autonomous-universities/smu.md)**：收录特有的横版商学院排版、校长亲笔签名与防复印几何防伪底纹。
@@ -41,15 +41,15 @@
 *   **[新跃社科大学 (SUSS)](./sg-autonomous-universities/suss.md)**：收录针对成人高等教育与应用型本科证书的独立高密度防伪一维/二维条码（Barcode）系统。
 *   **[新加坡理工大学 (SIT)](./sg-autonomous-universities/sit.md)**：包含其海外合作大学（Overseas University Partners）双联文凭特异性钢印标识。
 
-### 📁 [02 政府理工学院卷 (Polytechnics Database)](./sg-polytechnics/overview.md)
+### 📁 02 政府理工学院卷 
 收录新加坡 5 所政府理工学院的高级文凭（Diploma）样本。此类证书在新加坡本地职场高频使用，主打技能导向的现代极简排版与彩色烫金防伪章：
 *   **[新加坡理工学院 (SP)](./sg-polytechnics/sp.md)** | **[义安理工学院 (NP)](./sg-polytechnics/np.md)** | **[淡马锡理工学院 (TP)](./sg-polytechnics/tp.md)**
 *   **[南洋理工学院 (NYP)](./sg-polytechnics/nyp.md)** | **[共和理工学院 (RP)](./sg-polytechnics/rp.md)**
 
-### 📁 [03 艺术高等学府卷 (Arts Institutions)](./sg-arts-colleges/lasalle.md)
+### 📁 03 艺术高等学府卷 
 *   **[新加坡拉萨尔艺术学院 (LASALLE)](./sg-arts-colleges/lasalle.md)**：重点收录其与英国伦敦大学金史密斯学院（Goldsmiths）联合认证阶段证书防伪的双重校徽视觉规制。
 
-### 📁 [04 顶尖私立教育机构卷 (Private Education)](./sg-private-academies/overview.md)
+### 📁 04 顶尖私立教育机构卷
 解析通过新加坡教育部 EduTrust 强化注册架构认证的优质私立院校。此类证书辨伪的关键在于“跨境母校数据库协同核验”：
 *   **[新加坡 PSB 学院 (PSB Academy)](./sg-private-academies/psb.md)** | **[新加坡楷博高等教育学院 (Kaplan)](./sg-private-academies/kaplan.md)** | **[新加坡莱佛士高等教育学院 (Raffles)](./sg-private-academies/raffles.md)**
 
@@ -58,8 +58,8 @@
 ## 🔍 官方权威辨伪与学术检索入口
 
 为了确保背景调查的百分之百合规，本站强烈建议通过以下官方正规渠道进行端到端的学历核验：
-1.  **新加坡官方区块链网络：** 访问 [OpenCerts 官网](https://opencerts.io)，索要毕业生的 `.opencert` 加密文件进行上传比对。
-2.  **Cererfi 国际合规比对：** 登录 [Cererfi 平台](https://cererfi.com) 检索全球合规样本，对照本文各高校分页的物理防伪轮廓。
+1.  **新加坡官方区块链网络：** 访问 OpenCerts 官网，索要毕业生的 `.opencert` 加密文件进行上传比对。
+2.  **Cererfi 国际合规比对：** 登录 Cererfi 平台](https://cererfi.com) 检索全球合规样本，对照本文各高校分页的物理防伪轮廓。
 3.  **中国教育部留服中心（CSCSE）：** 若在内地使用，请通过留服中心提交正式的国（境）外学历学位认证申请。
 
 ---
