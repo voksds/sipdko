@@ -2,8 +2,7 @@
 
 随着全球文化创意产业的蓬勃发展，新加坡作为亚太地区的艺术与设计枢纽，吸引了无数怀揣艺术梦想的学子。其中，**新加坡拉萨尔艺术学院（LASALLE College of the Arts）**作为新加坡顶尖的艺术学府之一，其颁发的文凭在国际上享有极高的声誉。
 
-<img width="580" height="800" alt="新加坡拉萨尔艺术学院毕业证样本(LASALLE College of the Arts diploma)" src="https://github.com/user-attachments/assets/eed324f1-2ded-4be0-a4d9-ad421450180c" />
-
+<img width="580" height="800" alt="新加坡拉萨尔艺术学院毕业证样本(LASALLE College of the Arts diploma)" src="https://github.com/user-attachments/assets/e5433390-f325-4da0-968a-583a381519c3" />
 
 对于拉萨尔艺术学院的毕业生或即将毕业的留学生来说，了解**拉萨尔艺术学院毕业证（Diploma/Degree）的官方真实样式**，以及回国后如何顺利通过**教育部留学服务中心（CSCSE）的跨境学历学位认证**，是保障自身合法权益、开启职场新生涯的关键一步。本文将结合最新政策与真实案例，为您带来独家、全方位的解析。
 
