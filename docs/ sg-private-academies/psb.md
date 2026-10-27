@@ -2,7 +2,8 @@
 
 着全球数字化转型以及跨国教育的深度融合，新加坡凭借其严谨的教育质量与优越的地理位置，成为了亚太地区留学的黄金一站。作为新加坡历史悠久、以“亚洲顶尖创新教育学院”著称的私立高等学府，**新加坡 PSB 学院（PSB Academy）**颁发的文凭（Diploma/Degree）在文凭含金量、行业认可度方面一直名列前茅。
 
-<img width="565" height="800" alt="新加坡psb学院毕业证样本（PSB Academy diploma）" src="https://github.com/user-attachments/assets/4d70242e-87f4-4274-8bad-2204a07f59a2" />
+<img width="565" height="800" alt="新加坡psb学院毕业证样本（PSB Academy diploma）" src="https://github.com/user-attachments/assets/7fe186f9-eb02-45f7-8ae4-d6f5575db4f2" />
+
 
 无论是计划归国落户的留学生、企事业单位的 HR、还是专业的第三方背景调查机构，**如何准确识别新加坡 PSB 学院最新毕业证样式的防伪特征？如何高效通过中国教育部留学服务中心（CSCSE）的跨境学历认证？** 本文将为您提供全网独家、不落俗套的技术型全景解析。
 
